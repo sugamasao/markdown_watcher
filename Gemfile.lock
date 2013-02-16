@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    macaddr (1.6.1)
+      systemu (~> 2.5.0)
+    redcarpet (2.2.2)
+    ruby-growl (4.0)
+      uuid (~> 2.3, >= 2.3.5)
+    systemu (2.5.2)
+    uuid (2.3.6)
+      macaddr (~> 1.0)
+    watchr (0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redcarpet
+  ruby-growl
+  watchr
